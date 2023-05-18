@@ -1,0 +1,20 @@
+[
+    {
+        "parameter":"number of risers on the grid",
+        "variableName":"nr",
+        "value":0.00,
+        "units":null
+    },
+    {
+        "parameter":"number of outlet orifices per riser",
+        "variableName":"nor",
+        "value":0.00,
+        "units":null
+    },
+    {
+        "parameter":"outlet orifice diameter",
+        "variableName":"dor",
+        "value":0.00,
+        "units":"m"
+    }
+]

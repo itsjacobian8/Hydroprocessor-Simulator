@@ -1,0 +1,20 @@
+[
+    {
+        "parameter":"absolute tolerance",
+        "variableName":"absTol",
+        "value":0.00,
+        "units":null
+    },
+    {
+        "parameter":"relative tolerance",
+        "variableName":"relTol",
+        "value":0.00,
+        "units":null
+    },
+    {
+        "parameter":"maximum number of iterations",
+        "variableName":"maxIter",
+        "value":0.00,
+        "units":null
+    }
+]

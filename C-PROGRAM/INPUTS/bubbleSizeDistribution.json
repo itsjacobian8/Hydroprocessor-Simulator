@@ -1,0 +1,20 @@
+[
+    {
+        "parameter":"minimum cutoff bubble size",
+        "variableName":"minCutOff",
+        "value":0.00,
+        "units":"mm"
+    },
+    {
+        "parameter":"maximum cutoff bubble size",
+        "variableName":"maxCutOff",
+        "value":0.00,
+        "units":"mm"
+    },
+    {
+        "parameter":"bubble class width",
+        "variableName":"classWidth",
+        "value":0.00,
+        "units":"mm"
+    }
+]

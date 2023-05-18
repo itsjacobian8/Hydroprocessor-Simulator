@@ -1,0 +1,20 @@
+[
+    {
+        "parameter":"inlet liquid flow rate",
+        "variableName":"qlvr",
+        "value":0.00,
+        "units":"m^3/s"
+    },
+    {
+        "parameter":"liquid density",
+        "variableName":"rhol",
+        "value":0.00,
+        "units":"kg/m^3"
+    },
+    {
+        "parameter":"liquid viscosity",
+        "variableName":"mul",
+        "value":0.00,
+        "units":"Pa.s"
+    }
+]

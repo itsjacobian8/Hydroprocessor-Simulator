@@ -1,0 +1,26 @@
+[
+    {
+        "parameter":"particle density",
+        "variableName":"rhop",
+        "value":0.00,
+        "units":"kg/m^3"
+    },
+    {
+        "parameter":"particle surface area",
+        "variableName":"Ap",
+        "value":0.00,
+        "units":"m^2"
+    },
+    {
+        "parameter":"particle volume",
+        "variableName":"Vp",
+        "value":0.00,
+        "units":"m^3"
+    },
+    {
+        "parameter":"mass of catalyst inventory",
+        "variableName":"mcat",
+        "value":0.00,
+        "units":"m^3/s"
+    }
+]

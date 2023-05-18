@@ -1,0 +1,14 @@
+[
+    {
+        "parameter":"gas-liquid interfacial tension",
+        "variableName":"sigma",
+        "value":0.00,
+        "units":"N/m"
+    },
+    {
+        "parameter":"liquid-solid interfacial tension",
+        "variableName":null,
+        "value":0.00,
+        "units":"N/m"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "parameter":"minimum inlet gas flow rate",
+        "variableName":"qgtMin",
+        "value":0.00,
+        "units":"m^3/s"
+    },
+    {
+        "parameter":"maximum inlet gas flow rate",
+        "variableName":"qgtMax",
+        "value":0.00,
+        "units":"m^3/s"
+    },
+    {
+        "parameter":"inlet gas flow rate increment",
+        "variableName":"qgtIncrement",
+        "value":0.00,
+        "units":"m^3/s"
+    },
+    {
+        "parameter":"gas density",
+        "variableName":"rhog",
+        "value":0.00,
+        "units":"kg/m^3"
+    }
+]

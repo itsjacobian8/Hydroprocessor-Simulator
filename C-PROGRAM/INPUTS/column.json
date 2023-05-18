@@ -1,0 +1,32 @@
+[
+    {
+        "parameter":"column diameter",
+        "variableName":"Dc",
+        "value":0.00,
+        "units":"m"
+    },
+    {
+        "parameter":"desired bed height",
+        "variableName":"hset",
+        "value":0.00,
+        "units":"m"
+    },
+    {
+        "parameter":"recycle line diameter",
+        "variableName":"drec",
+        "value":0.00,
+        "units":"m"
+    },
+    {
+        "parameter":"gas-liquid separator volume",
+        "variableName":"vsep",
+        "value":0.00,
+        "units":"m^3"
+    },
+    {
+        "parameter":"operating pressure",
+        "variableName":"P",
+        "value":0.00,
+        "units":"MPa"
+    }
+]
