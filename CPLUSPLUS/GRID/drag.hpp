@@ -58,7 +58,7 @@ template<typename realType> void drag<realType>::getInputs()
 	cout<<"1. Tomiyama (1998) model for pure systems."<<endl;
 	cout<<"2. Tomiyama (1998) model for slightly contaminated systems."<<endl;
 	cout<<"3. Tomiyama (1998) model for fully contaminated systems."<<endl;
-	cout<<"4. Mach (2020) model for contaminated polydisperse swarm."<<endl;
+	cout<<"4. Mach (2020) model for contaminated polydisperse systems."<<endl;
 
 	cout<<"Please enter 1, 2, 3, or 4: ";
 	int drag_model;
